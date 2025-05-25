@@ -21,8 +21,7 @@ This chatbot uses data mining techniques to provide real-time insights such as:
 - Training recommendations  
 - Efficiency and sustainability metrics
 
-## 🤖 Powered By
--  
+## 🤖 Powered By 
 - NLP for chatbot interactions  
 - GitHub Actions for automation  
 - Custom driver performance datasets
